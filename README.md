@@ -33,3 +33,5 @@ The sending and receiving applications are expected to:
   Save decoded strings as a file and display captions
   Encrypt, compress, hash messages (and the reverse)
   Exchange encrypted messages
+
+This assignment was completed in a group of 4, and earned us a score of 87%
